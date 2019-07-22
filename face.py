@@ -47,6 +47,6 @@ class Face(object) :
         elif flag == "quit" :
             print('退出成功！请稍后。。。')
             result = -1
-        time.sleep(2)
+        time.sleep(1)
         return result
 

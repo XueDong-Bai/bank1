@@ -51,7 +51,7 @@ def m() :
         operate = input("请输入您的操作：")
         if operate == "1" :
             #开户
-            print('开户')
+           atm.createUser();
         elif operate == "2" :
             print('查询')
         elif operate == "3" :
