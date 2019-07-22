@@ -1,0 +1,17 @@
+pycharm 选中多行，点back space键无法删除
+    pycharm多行删除问题：
+    1、打开一个新的py文件，光标处于加粗状态，也就是编程软件经常出现的insert插入编辑模式，按insert按键，退出了这个模式。
+    2、 选中几行文字，按“back space”键无法删除，只能一个一个删除再写
+
+    后来网上找资料，说是因为安装pycharm的时候勾选了vim，解决办法：Tools–>Vim Emulator勾选状态去掉即可
+    ---------------------
+
+
+这里推荐三个非常不错的国内镜像
+
+https://pypi.tuna.tsinghua.edu.cn/simple/  清华大学镜像
+
+http://pypi.douban.com/simple/    豆瓣镜像
+
+http://mirrors.aliyun.com/pypi/simple/ 阿里镜像
+-------------------------
