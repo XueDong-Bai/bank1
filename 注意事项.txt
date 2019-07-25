@@ -6,7 +6,7 @@ pycharm 选中多行，点back space键无法删除
     后来网上找资料，说是因为安装pycharm的时候勾选了vim，解决办法：Tools–>Vim Emulator勾选状态去掉即可
     ---------------------
 
-
+https://pypi.python.org/simple
 这里推荐三个非常不错的国内镜像
 
 https://pypi.tuna.tsinghua.edu.cn/simple/  清华大学镜像
